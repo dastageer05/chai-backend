@@ -1,3 +1,3 @@
-export const DB_NAME = "Dastageer"
+export const DB_NAME = "venom";
 
-const name = "Git"
+const name = "Git";
